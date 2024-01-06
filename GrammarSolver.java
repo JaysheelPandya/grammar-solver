@@ -1,6 +1,3 @@
-// JaysheelPandya
-// CSE 143 DD with Xunmei Liu
-// Homework 5
 // The GrammarSolver class reads an input file with grammar in
 // Backus-Naur form and randomly generates elements of the grammar
 
